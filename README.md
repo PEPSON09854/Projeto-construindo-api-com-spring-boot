@@ -4,7 +4,7 @@
 ## Introdução
 
 Nesse repositório contém atividades práticas de uma api de produtos construída em Spring, 
-utilizei uma arquitetura MVC pra criação de um modelo(tabela) no banco utilizando a ORM JPA.
+utilizei uma arquitetura MVC pra criação de uma classe modelo(tabela) no banco utilizando a ORM JPA.
 
 
 criações de rotas com validações simples de end-points, fazendo um CRUD no banco MYSQL.
