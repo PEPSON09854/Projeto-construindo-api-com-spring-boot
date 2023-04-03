@@ -7,7 +7,7 @@ Nesse repositório contém atividades práticas de uma api de produtos construí
 utilizei uma arquitetura MVC pra criação de uma classe modelo(tabela) no banco utilizando a ORM JPA.
 
 
-criações de rotas com validações simples de end-points, fazendo um CRUD no banco MYSQL.
+Crie as rotas para validações dos end-points, testei estas rotas utilizando um client server como o Postman para fazer assim um CRUD no banco MYSQL.
 O uso de várias Annotetions do JPA ajudaram a fazer o mapeamento objeto relacional construindo 
 assim uma api de forma rápida.
 
